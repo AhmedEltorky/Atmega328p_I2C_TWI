@@ -1,6 +1,6 @@
 # Atmega328p_I2C_TWI
 
-### Two Wire Interface between three atmega328p microcontrollers one master and two slaves, master read data from one slave and write it into the other slave.
+### Two Wire Interface between three atmega328p microcontrollers one master and two slaves, the master reads data from one slave and write it into the other slave.
 ### The master and slave_write microcontrollers used polling technique and slave_read microcontroller used interrupt technique.
 
 #### I2C: Inter-Integrated Circuit
